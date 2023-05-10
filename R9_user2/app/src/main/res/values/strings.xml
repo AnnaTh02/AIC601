@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">R9_user</string>
+    <string name="text_box_physio">Φυσιοθεραπευτήριο</string>
+    <string name="text_box_service">Υπηρεσία</string>
+    <string name="text_box_date">Ημερομηνία</string>
+    <string name="text_box_time">Ώρα</string>
+    <string name="text_field_clear">Εκκαθάριση φόρμας</string>
+    <string name="button">Υποβολή</string>
+
+    <string-array name="physios">
+        <item>Φυσιοθεραπευτήριο</item>
+        //the rest of the items will be filled with every new physio inputted
+        <item>Test item</item>
+        <item>Test item 2</item>
+    </string-array>
+
+    <string-array name="services">
+        <item>Υπηρεσίες</item>
+        //the rest of the items will be filled with every new services inputted
+        <item>Test item</item>
+        <item>Test item 2</item>
+    </string-array>
+</resources>
